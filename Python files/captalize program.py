@@ -1,0 +1,11 @@
+s="python world"
+print(s.capitalize())
+print(s)
+res=s.split(' ')
+print(res)
+print(s.join('+'))
+print('+'.join(s))
+#et=uppercase(s)
+#print(set)
+#set=s.count()
+#print(set)
